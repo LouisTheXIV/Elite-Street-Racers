@@ -1,0 +1,12 @@
+C:\Users\alext\OneDrive\Desktop\RacingGame\RacingGame\bin\Release\RacingGame.exe.config
+C:\Users\alext\OneDrive\Desktop\RacingGame\RacingGame\bin\Release\RacingGame.exe
+C:\Users\alext\OneDrive\Desktop\RacingGame\RacingGame\bin\Release\RacingGame.pdb
+C:\Users\alext\OneDrive\Desktop\RacingGame\RacingGame\bin\Release\RacingGame.xml
+C:\Users\alext\OneDrive\Desktop\RacingGame\RacingGame\obj\Release\RacingGame.Form1.resources
+C:\Users\alext\OneDrive\Desktop\RacingGame\RacingGame\obj\Release\RacingGame.Form2.resources
+C:\Users\alext\OneDrive\Desktop\RacingGame\RacingGame\obj\Release\RacingGame.Resources.resources
+C:\Users\alext\OneDrive\Desktop\RacingGame\RacingGame\obj\Release\RacingGame.UserControl1.resources
+C:\Users\alext\OneDrive\Desktop\RacingGame\RacingGame\obj\Release\RacingGame.vbproj.GenerateResource.Cache
+C:\Users\alext\OneDrive\Desktop\RacingGame\RacingGame\obj\Release\RacingGame.exe
+C:\Users\alext\OneDrive\Desktop\RacingGame\RacingGame\obj\Release\RacingGame.xml
+C:\Users\alext\OneDrive\Desktop\RacingGame\RacingGame\obj\Release\RacingGame.pdb

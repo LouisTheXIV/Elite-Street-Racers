@@ -1,0 +1,13 @@
+C:\Users\alext\OneDrive\Desktop\RacingGame\RacingGame\bin\Debug\RacingGame.exe.config
+C:\Users\alext\OneDrive\Desktop\RacingGame\RacingGame\bin\Debug\RacingGame.exe
+C:\Users\alext\OneDrive\Desktop\RacingGame\RacingGame\bin\Debug\RacingGame.pdb
+C:\Users\alext\OneDrive\Desktop\RacingGame\RacingGame\bin\Debug\RacingGame.xml
+C:\Users\alext\OneDrive\Desktop\RacingGame\RacingGame\obj\Debug\RacingGame.vbprojResolveAssemblyReference.cache
+C:\Users\alext\OneDrive\Desktop\RacingGame\RacingGame\obj\Debug\RacingGame.Form1.resources
+C:\Users\alext\OneDrive\Desktop\RacingGame\RacingGame\obj\Debug\RacingGame.Resources.resources
+C:\Users\alext\OneDrive\Desktop\RacingGame\RacingGame\obj\Debug\RacingGame.vbproj.GenerateResource.Cache
+C:\Users\alext\OneDrive\Desktop\RacingGame\RacingGame\obj\Debug\RacingGame.exe
+C:\Users\alext\OneDrive\Desktop\RacingGame\RacingGame\obj\Debug\RacingGame.xml
+C:\Users\alext\OneDrive\Desktop\RacingGame\RacingGame\obj\Debug\RacingGame.pdb
+C:\Users\alext\OneDrive\Desktop\RacingGame\RacingGame\obj\Debug\RacingGame.Form2.resources
+C:\Users\alext\OneDrive\Desktop\RacingGame\RacingGame\obj\Debug\RacingGame.UserControl1.resources
